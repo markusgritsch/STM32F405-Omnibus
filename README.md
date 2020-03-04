@@ -1,4 +1,2 @@
-# STM32F405-Omnibus
-SilF4ware -- an STM32F4 port of [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03)
-
-Discussion page on RC Groups: https://www.rcgroups.com/forums/showthread.php?3294959-SilF4ware-an-STM32F4-port-of-SilverWare
+### This repository is obsolete now.
+### New location: [SilF4ware](https://github.com/markusgritsch/SilF4ware)
